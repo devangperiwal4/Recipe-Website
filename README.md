@@ -2,6 +2,9 @@
 
 A simple and visually appealing recipe website built using HTML and CSS. Users can browse recipes, explore tags, view individual recipe pages, and more. Ideal as a front-end template or a starting point for integrating dynamic content.
 
+### 🏠 Homepage
+![Homepage](assets/Landing-page.png)
+
 ---
 
 ## 📁 Project Structure
